@@ -1,1 +1,1 @@
-<a href="https://mariyusurai.github.io/Lista/Lista.html"> lista </a>
+<a href="https://mariyusurai.github.io/Lista/lista.html"> lista </a>
